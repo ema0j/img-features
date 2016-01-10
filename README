@@ -1,0 +1,10 @@
+### Image features extraction & classification ###
+2014. 6
+
+. Extracts features(color, brightness) and classifies images in C++ using OpenCV
+. Input : Image folder path or image urls file
+
+# Dependencies
+VS2010
+OpenCV
+Poco C++
